@@ -1,6 +1,14 @@
 ### Hi there 👋
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SandorDargo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandor-dargo/)
+
+My name is Sandor. I'm specialized in C++, but I'm also enthusiastic about Python. Before I became a software developer, I was on the dark side. No, I have never been a manager, I worked in operations.
+
+I was a DBA in one of the most process-oriented corporations (according to NY Times), but I wanted more freedom and creativity. The more time I've spent on coding, the more I realized how much fun it is and how much I love high-quality code - and how far I am from it!
+
+When I'm not on the road with my family, or not baking something in the kitchen, I read and write. I write mostly about the books I read, the importance of Stoic philosophy, and of course, C++.
+
+Speaking about C++, if you think you'll ever have a C++ interview, visit [Daily C++ Interview](https://www.dailycppinterview.com/) and sign up for the free daily content!
 <!--
 **sandordargo/sandordargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
