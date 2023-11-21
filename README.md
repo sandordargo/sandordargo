@@ -8,7 +8,7 @@ I was a DBA in one of the most process-oriented corporations (according to NY Ti
 
 When I'm not on the road with my family, or not baking something in the kitchen, I read and write. I write mostly about the books I read, the importance of Stoic philosophy, and of course, C++.
 
-Speaking about C++, if you think you'll ever have a C++ interview, visit [Daily C++ Interview](https://www.dailycppinterview.com/) and sign up for the free daily content!
+Speaking about C++, if you think you'll ever have a C++ interview, visit [Daily C++ Interview](https://www.dailycppinterview.dev/) and sign up for the free daily content!
 <!--
 **sandordargo/sandordargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
